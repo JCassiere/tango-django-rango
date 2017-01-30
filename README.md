@@ -1,2 +1,2 @@
 # tango-django-rango
-# Tutorial for Tango with Django 1.9
+# Tutorial for How to Tango with Django 1.9
